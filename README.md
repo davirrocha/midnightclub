@@ -10,7 +10,7 @@ Este projeto é uma página web desenvolvida em React para apresentar informaç�
 
 - JavaScript (ES6+): Linguagem principal do desenvolvimento.
 
-##Funcionalidades
+## Funcionalidades
 
 - Apresentação da cultura JDM e sua história.
 
